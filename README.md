@@ -32,4 +32,5 @@ Natural Language Processing.
    queries to Watson Discovery.
 4. Build a web application with integration of all the services and deploy the same on
    IBM Cloud Platform.
+### 1.4 Youtube video link: https://youtu.be/apXAq8wZfhQ   
 
